@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RepNet</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="enhance_images">Enhance Images</string>
+    <string name="improved_image">Improved image</string>
+    <string name="original_image">original image</string>
+    <string name="time_taken_to_run_the_model">Time taken to run the model:</string>
+</resources>
